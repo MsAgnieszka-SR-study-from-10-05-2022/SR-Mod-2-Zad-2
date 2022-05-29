@@ -1,3 +1,5 @@
+# Module 2 Project 2 - UUID Generator
+
 ## This project generates and shows us random UUID.
 
 -------------------------
