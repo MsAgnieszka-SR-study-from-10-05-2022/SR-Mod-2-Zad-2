@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.uuid-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 40vh;
+  background-color: rgb(0, 0, 0);
+}
+
+.uuid-paragraph {
+  font-size: 35px;
+  color: rgb(255, 255, 255);
+}
+
+.gray-paragraph, .refresh-paragraph {
+  color: rgb(145, 145, 145);
+}
+
+.refresh-paragraph {
+  font-size: 20px;
+}
